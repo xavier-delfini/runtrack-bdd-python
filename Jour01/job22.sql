@@ -1,0 +1,1 @@
+SELECT * FROM laplateforme.etudiants order by age asc LIMIT 1;

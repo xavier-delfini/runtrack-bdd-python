@@ -1,0 +1,1 @@
+select *  from laplateforme.etudiants where age<18;

@@ -1,0 +1,1 @@
+SELECT * from laplateforme.etudiants  order by nom asc ;
